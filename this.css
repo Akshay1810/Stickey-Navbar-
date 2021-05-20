@@ -1,0 +1,42 @@
+body{
+    margin: 0px; 
+    background-color: grey; 
+     
+   }
+   p{
+       color:black;
+       font-size: 18px;
+   }
+   #header{
+     text-align: center;  
+   }
+   #logo{
+       width:250px;
+       height:auto;
+   }
+   #navbar{
+      text-align: center;
+      background-color:black;
+      text-align: left;
+   }
+   #navbar li{
+       display:inline-block;
+       padding:15px 10px;
+       color:rgb(208, 239, 245);
+       font-size: 20px;
+       font-weight: bold;
+       
+
+   }
+   #container{
+       text-align: center;
+       padding: 50px 100px;
+   }
+   #lol{
+       width:100%;
+   }
+   .sticky{
+       position:fixed;
+       width: 100%;
+       top:0;
+   }
